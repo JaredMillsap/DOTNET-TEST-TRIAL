@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\new_folder_trial.exe
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\new_folder_trial.deps.json
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\new_folder_trial.runtimeconfig.json
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\new_folder_trial.runtimeconfig.dev.json
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\new_folder_trial.dll
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\ref\new_folder_trial.dll
+C:\Users\Student\Desktop\new_folder_trial\bin\Debug\net5.0\new_folder_trial.pdb
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.AssemblyInfo.cs
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.dll
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\ref\new_folder_trial.dll
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.pdb
+C:\Users\Student\Desktop\new_folder_trial\obj\Debug\net5.0\new_folder_trial.genruntimeconfig.cache
